@@ -5,10 +5,10 @@
   "license": "ISC",
   "scripts": {
     "test": "node test-direct.js",
-    "test:ok" : "node test-with-retries.js"
+    "test:ok": "node test-with-retries.js"
   },
   "dependencies": {
-    "parcel": "^2.14.4",
+    "parcel": "^2.15.0",
     "playwright": "^1.52.0"
   }
 }
